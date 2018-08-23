@@ -1,0 +1,81 @@
+.z-free-img{
+	max-width: none;
+}
+
+.z-surfing-description{
+	/* Style for "By better" */
+	width: 336px;
+	height: 60px;
+	opacity: 0.65;
+	color: #616161;
+	font-size: 14px;
+	font-weight: 300;
+	line-height: 24px;
+	/* Text style for "B, y bette" */
+	letter-spacing: 0.35px;
+	
+}
+
+.z-surfing-space-left{
+	margin-left: 116px;
+	margin-top: 59px;
+}
+
+.z-h2{
+	width: 218px;
+	height: 35px;
+	color: #333333;
+	font-size: 42px;
+	font-weight: 700;
+	line-height: 66px;
+	/* Text style for "S, urfboar" */
+	letter-spacing: 0.42px;
+	text-transform: none;
+	margin:auto;
+}
+.z-relative {
+	position: relative;
+}
+
+.z-absolute-top {
+	position: absolute;
+	left: 0;
+	width: 473px;
+	top: 244px;
+}
+
+.z-rotate {
+	transform: rotate(-90deg);
+	opacity: 0.2;
+	color: #0b0c11;
+	font-size: 9px;
+	font-weight: 700;
+	line-height: 66px;
+	text-transform: uppercase;
+	/* Text style for "F, irst Su" */
+	letter-spacing: 5.4px;
+	margin: 0;
+}
+
+.z-h3 {
+	text-transform: none;
+	opacity: 0.9;
+	color: #333333;
+	font-size: 26px;
+	font-weight: 400;
+	line-height: 38px;
+	letter-spacing: 0.26px;
+	width: 610px;
+}
+
+.z-h6 {
+	width: 148px;
+	opacity: 0.9;
+	color: #333333;
+	font-size: 9px;
+	font-weight: 700;
+	line-height: 66px;
+	text-transform: uppercase;
+	/* Text style for "J, ohn McC" */
+	letter-spacing: 5.4px;
+}
